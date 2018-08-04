@@ -1,0 +1,8 @@
+[package]
+name = "SokoBan"
+version = "0.1.0"
+authors = ["yoshiki <interestingyoshiki@gmail.com>"]
+
+[dependencies]
+lazy_static = "1"
+void = "1"
